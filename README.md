@@ -13,5 +13,5 @@ This is a Python implementation of the classic **Tic-Tac-Toe** game where you ca
    ```
 3. Run the game
    ```
-   python main.py
+   python3 main.py
    ```
