@@ -11,3 +11,7 @@ This is a Python implementation of the classic **Tic-Tac-Toe** game where you ca
    ```
    cd Tic-Tac-Toe
    ```
+3. Run the game
+   ```
+   python main.py
+   ```
